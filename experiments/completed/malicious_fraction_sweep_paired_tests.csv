@@ -1,0 +1,19 @@
+alpha,m_frac,comparison,n,mean_asr_difference,wilcoxon_p,holm_p
+0.1,0.1,probeguard vs fedavg,5,0.0009153318077803063,1.0,1.0
+0.1,0.1,probeguard_k vs fedavg,5,-0.16365891175363192,0.375,1.0
+0.1,0.2,probeguard vs fedavg,5,0.005833636326909875,0.5,1.0
+0.1,0.2,probeguard_k vs fedavg,5,0.053364152787745825,0.0625,0.375
+0.1,0.3,probeguard vs fedavg,5,0.002709053780874471,0.5,1.0
+0.1,0.3,probeguard_k vs fedavg,5,-0.002388317918540439,0.625,1.0
+0.5,0.1,probeguard vs fedavg,5,-0.25154816735787094,0.0625,0.375
+0.5,0.1,probeguard_k vs fedavg,5,-0.26515737409043494,0.0625,0.375
+0.5,0.2,probeguard vs fedavg,5,-0.08221866707369312,0.125,0.375
+0.5,0.2,probeguard_k vs fedavg,5,-0.5922578664747989,0.0625,0.375
+0.5,0.3,probeguard vs fedavg,5,-0.0009472579103177558,0.75,0.75
+0.5,0.3,probeguard_k vs fedavg,5,-0.3100402856481003,0.0625,0.375
+1.0,0.1,probeguard vs fedavg,5,-0.2843844215516719,0.0625,0.375
+1.0,0.1,probeguard_k vs fedavg,5,-0.2979618985205676,0.0625,0.375
+1.0,0.2,probeguard vs fedavg,5,-0.26990732082785673,0.125,0.375
+1.0,0.2,probeguard_k vs fedavg,5,-0.7423760966226264,0.0625,0.375
+1.0,0.3,probeguard vs fedavg,5,-0.017669022848182548,0.125,0.375
+1.0,0.3,probeguard_k vs fedavg,5,-0.7611758755498393,0.0625,0.375

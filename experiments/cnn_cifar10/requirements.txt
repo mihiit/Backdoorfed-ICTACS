@@ -1,0 +1,2 @@
+-r ../../requirements.txt
+torch>=2.2        # pin the exact version you ran with (pip freeze > experiments/cnn_cifar10/results/env.txt)

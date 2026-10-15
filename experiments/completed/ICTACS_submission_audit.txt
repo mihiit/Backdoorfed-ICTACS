@@ -1,0 +1,33 @@
+ProbeGuard / ICTACS submission audit — 2026-10-12
+Status: NOT READY TO SUBMIT without revisions.
+
+1) LaTeX build check
+- `latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex` emitted a 14-page PDF but exited with code 12.
+- Bibliography build failed because `bibtex` could not execute ("Permission denied"); no main.bbl was produced.
+- The log reports unresolved citations and references. Therefore the produced PDF is a diagnostic build, not a final submission PDF.
+- Build environment must be fixed and a clean build with resolved bibliography/references verified.
+
+2) Length / format
+- Current main.tex build produced 14 pages. User's reported ICTACS limit is 6 pages plus up to 2 extra; check current official call/template, but if that limit applies, the current manuscript is over-length and needs major condensation.
+
+3) Experiment coverage completed in this work session
+- MAD threshold sensitivity: 180 runs, 10 seeds (100–109), alpha={0.1,0.5,1.0}, k={1,1.5,2,2.5,3}, delta=0.1; Top-f comparison.
+- Actual malicious-client fraction sweep: 135 runs, 5 seeds (0–4), malicious fraction={10%,20%,30%}, alpha={0.1,0.5,1.0}, FedAvg/MAD/Top-f.
+- The malicious-fraction sweep is exploratory (n=5); paired tests are low-powered and no corrected significance claim should be made from it.
+- Top-f uses the correct f for the main sweep and therefore assumes known malicious-client count.
+
+4) Main patterns from the exploratory malicious fraction sweep
+- alpha=0.1: ASR stays high at 20% and 30% malicious fractions; MAD does not improve materially over FedAvg.
+- alpha=0.5: Top-f reduces ASR at 10% and 20% malicious fractions but degrades substantially at 30%.
+- alpha=1.0: Top-f lowers ASR in all three tested fractions, but its false-positive rate increases with the malicious fraction.
+- Do not present these five-seed means as definitive; expand to at least 10 seeds if time permits or label clearly as exploratory.
+
+5) Integrity / consistency audit still required
+- Compare every manuscript table and abstract number against its raw CSV, particularly because older experiments use different seed ranges and run counts.
+- Ensure no illustrative/mock images are used as result figures; use generated plots from actual CSVs.
+- Recheck CNN/CIFAR-10 tables, CNN AUROC/AUPRC availability, FLTrust collapse, baseline implementation, and adaptive-attacker claims against raw artifacts.
+- Keep negative results and limitations.
+- Verify page limit, author metadata, anonymization rules, reference format, and official deadline in the current ICTACS call.
+
+Recommendation:
+Do not submit the current 14-page diagnostic build. Fix bibliography toolchain and references, reconcile numbers, decide which experiments fit the paper, and produce a clean, correctly formatted final PDF.

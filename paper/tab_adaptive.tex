@@ -1,0 +1,18 @@
+\begin{tabular}{@{}llcccc@{}}
+\toprule
+Defence & Attack & $\alpha=1$ ASR (\%) & $\alpha=1$ TPR & $\alpha=10$ ASR (\%) & $\alpha=10$ TPR\\
+\midrule
+FedAvg & non-adaptive & 78.5$\pm$8.2 & -- & 69.5$\pm$6.2 & --\\
+FedAvg & adaptive ($\beta{=}0.5$) & 46.5$\pm$6.8 & -- & 35.4$\pm$5.2 & --\\
+\addlinespace
+Multi-Krum & non-adaptive & 26.1$\pm$44.3 & -- & 25.1$\pm$41.3 & --\\
+Multi-Krum & adaptive ($\beta{=}0.5$) & 5.8$\pm$11.9 & -- & 19.1$\pm$24.6 & --\\
+\addlinespace
+ProbeGuard (MAD) & non-adaptive & 74.3$\pm$9.4 & 0.03 & 15.4$\pm$37.0 & 0.57\\
+ProbeGuard (MAD) & adaptive ($\beta{=}0.5$) & 37.0$\pm$18.8 & 0.07 & 14.7$\pm$17.4 & 0.38\\
+\addlinespace
+ProbeGuard-K & non-adaptive & 1.0$\pm$1.6 & 0.86 & 0.6$\pm$0.9 & 0.94\\
+ProbeGuard-K & adaptive ($\beta{=}0.5$) & 9.8$\pm$11.3 & 0.62 & 2.4$\pm$3.9 & 0.79\\
+\addlinespace
+\bottomrule
+\end{tabular}

@@ -1,0 +1,8 @@
+alpha,analysis,n,mean,ci95_low,ci95_high,wilcoxon_p
+0.5,paired_ASR_K_minus_MAD,20,-0.3648752272228603,-0.4662499745870732,-0.26350047985864744,1.9073486328125e-06
+0.5,probeguard_late_auc_vs_final_asr_spearman,20,-0.8210526315789473,,,9.148582181124784e-06
+0.5,probeguard_late_tpr_vs_final_asr_spearman,20,-0.5692763313130856,,,0.008797635651319798
+0.5,probeguard_late_fpr_vs_final_asr_spearman,20,0.5201090650644422,,,0.018734484057135386
+0.5,probeguard_k_late_auc_vs_final_asr_spearman,20,-0.8962406015037594,,,9.03561717901523e-08
+0.5,probeguard_k_late_tpr_vs_final_asr_spearman,20,-0.9285179453194884,,,3.5633537418460047e-09
+0.5,probeguard_k_late_fpr_vs_final_asr_spearman,20,0.9285179453194884,,,3.5633537418460047e-09

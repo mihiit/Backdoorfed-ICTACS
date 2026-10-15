@@ -1,0 +1,256 @@
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 0, "acc": 0.8490945674044266, "asr": 0.8408071748878924}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 1, "acc": 0.7867203219315896, "asr": 0.9588100686498856}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 2, "acc": 0.8189134808853119, "asr": 0.8684807256235828}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 3, "acc": 0.8470824949698189, "asr": 0.7596371882086168}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 4, "acc": 0.8470824949698189, "asr": 0.8986486486486487}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 5, "acc": 0.7847082494969819, "asr": 0.45555555555555555}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 6, "acc": 0.7585513078470825, "asr": 0.8878718535469108}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 7, "acc": 0.7404426559356136, "asr": 0.7186813186813187}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 0, "acc": 0.8410462776659959, "asr": 0.8654708520179372, "tpr": 0.0, "fpr": 0.016666666666666666}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 1, "acc": 0.7867203219315896, "asr": 0.9588100686498856, "tpr": 0.0, "fpr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 2, "acc": 0.8189134808853119, "asr": 0.8684807256235828, "tpr": 0.0, "fpr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 3, "acc": 0.8450704225352113, "asr": 0.7596371882086168, "tpr": 0.0, "fpr": 0.010416666666666666}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 4, "acc": 0.8410462776659959, "asr": 0.9031531531531531, "tpr": 0.0, "fpr": 0.00625}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 5, "acc": 0.7847082494969819, "asr": 0.45555555555555555, "tpr": 0.0, "fpr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 6, "acc": 0.7585513078470825, "asr": 0.8878718535469108, "tpr": 0.0, "fpr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 7, "acc": 0.7404426559356136, "asr": 0.7186813186813187, "tpr": 0.0, "fpr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 0, "acc": 0.8249496981891348, "asr": 0.8497757847533632, "tpr": 0.0, "fpr": 0.041666666666666664}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 1, "acc": 0.7424547283702213, "asr": 0.9862700228832952, "tpr": 0.008333333333333333, "fpr": 0.06458333333333334}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 2, "acc": 0.8148893360160966, "asr": 0.854875283446712, "tpr": 0.008333333333333333, "fpr": 0.03333333333333333}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 3, "acc": 0.8028169014084507, "asr": 0.782312925170068, "tpr": 0.0, "fpr": 0.0625}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 4, "acc": 0.8390342052313883, "asr": 0.9211711711711712, "tpr": 0.025, "fpr": 0.06041666666666667}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 5, "acc": 0.7484909456740443, "asr": 0.5133333333333333, "tpr": 0.0, "fpr": 0.041666666666666664}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 6, "acc": 0.7303822937625755, "asr": 0.9061784897025171, "tpr": 0.0, "fpr": 0.035416666666666666}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 7, "acc": 0.7424547283702213, "asr": 0.7296703296703296, "tpr": 0.0, "fpr": 0.04583333333333333}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 0, "acc": 0.8490945674044266, "asr": 0.8452914798206278, "tpr": 0.0, "fpr": 0.00625}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 1, "acc": 0.7746478873239436, "asr": 0.9748283752860412, "tpr": 0.0, "fpr": 0.029166666666666667}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 2, "acc": 0.8269617706237424, "asr": 0.8752834467120182, "tpr": 0.0, "fpr": 0.01875}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 3, "acc": 0.8189134808853119, "asr": 0.7709750566893424, "tpr": 0.0, "fpr": 0.01875}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 4, "acc": 0.8410462776659959, "asr": 0.9076576576576577, "tpr": 0.0, "fpr": 0.022916666666666665}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 5, "acc": 0.7424547283702213, "asr": 0.4911111111111111, "tpr": 0.0, "fpr": 0.0125}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 6, "acc": 0.7585513078470825, "asr": 0.8901601830663616, "tpr": 0.0, "fpr": 0.00625}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 7, "acc": 0.744466800804829, "asr": 0.7252747252747253, "tpr": 0.0, "fpr": 0.016666666666666666}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 0, "acc": 0.8490945674044266, "asr": 0.8452914798206278, "tpr": 0.0, "fpr": 0.00625}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 1, "acc": 0.7746478873239436, "asr": 0.9748283752860412, "tpr": 0.0, "fpr": 0.029166666666666667}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 2, "acc": 0.8269617706237424, "asr": 0.8752834467120182, "tpr": 0.0, "fpr": 0.01875}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 3, "acc": 0.8189134808853119, "asr": 0.7709750566893424, "tpr": 0.0, "fpr": 0.01875}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 4, "acc": 0.8410462776659959, "asr": 0.9076576576576577, "tpr": 0.0, "fpr": 0.022916666666666665}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 5, "acc": 0.7424547283702213, "asr": 0.4911111111111111, "tpr": 0.0, "fpr": 0.0125}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 6, "acc": 0.7585513078470825, "asr": 0.8901601830663616, "tpr": 0.0, "fpr": 0.00625}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 7, "acc": 0.744466800804829, "asr": 0.7252747252747253, "tpr": 0.0, "fpr": 0.016666666666666666}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 0, "acc": 0.7484909456740443, "asr": 0.9147982062780269, "tpr": 0.09166666666666666, "fpr": 0.22708333333333333}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 1, "acc": 0.7323943661971831, "asr": 0.988558352402746, "tpr": 0.058333333333333334, "fpr": 0.23541666666666666}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 2, "acc": 0.7826961770623743, "asr": 0.8979591836734694, "tpr": 0.016666666666666666, "fpr": 0.24583333333333332}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 3, "acc": 0.7364185110663984, "asr": 0.8662131519274376, "tpr": 0.025, "fpr": 0.24375}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 4, "acc": 0.806841046277666, "asr": 0.9256756756756757, "tpr": 0.14166666666666666, "fpr": 0.21458333333333332}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 5, "acc": 0.6921529175050302, "asr": 0.4288888888888889, "tpr": 0.20833333333333334, "fpr": 0.19791666666666666}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 6, "acc": 0.7062374245472837, "asr": 0.9473684210526315, "tpr": 0.08333333333333333, "fpr": 0.22916666666666666}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 7, "acc": 0.7464788732394366, "asr": 0.7934065934065934, "tpr": 0.0, "fpr": 0.25}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 0, "acc": 0.8370221327967807, "asr": 0.004484304932735426, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 1, "acc": 0.8410462776659959, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 2, "acc": 0.8028169014084507, "asr": 0.0022675736961451248, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 3, "acc": 0.8490945674044266, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 4, "acc": 0.7947686116700201, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 5, "acc": 0.8511066398390342, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 6, "acc": 0.7947686116700201, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 7, "acc": 0.738430583501006, "asr": 0.002197802197802198, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 0, "acc": 0.8370221327967807, "asr": 0.004484304932735426}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 1, "acc": 0.8410462776659959, "asr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 2, "acc": 0.8028169014084507, "asr": 0.0022675736961451248}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 3, "acc": 0.8490945674044266, "asr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 4, "acc": 0.7947686116700201, "asr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 5, "acc": 0.8511066398390342, "asr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 6, "acc": 0.7947686116700201, "asr": 0.0}
+{"alpha": 0.1, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 7, "acc": 0.738430583501006, "asr": 0.002197802197802198}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 0, "acc": 0.8832997987927566, "asr": 0.7017937219730942}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 1, "acc": 0.8873239436619719, "asr": 0.8558352402745996}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 2, "acc": 0.9134808853118712, "asr": 0.6621315192743764}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 3, "acc": 0.8873239436619719, "asr": 0.7687074829931972}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 4, "acc": 0.8672032193158954, "asr": 0.8085585585585585}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 5, "acc": 0.8611670020120724, "asr": 0.7711111111111111}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 6, "acc": 0.8853118712273642, "asr": 0.8443935926773455}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 7, "acc": 0.8591549295774648, "asr": 0.7824175824175824}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 0, "acc": 0.8712273641851107, "asr": 0.695067264573991, "tpr": 0.025, "fpr": 0.0125}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 1, "acc": 0.8913480885311871, "asr": 0.7254004576659039, "tpr": 0.11666666666666667, "fpr": 0.0020833333333333333}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 2, "acc": 0.9114688128772636, "asr": 0.6643990929705216, "tpr": 0.025, "fpr": 0.01875}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 3, "acc": 0.8913480885311871, "asr": 0.5578231292517006, "tpr": 0.175, "fpr": 0.010416666666666666}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 4, "acc": 0.8531187122736419, "asr": 0.7432432432432432, "tpr": 0.03333333333333333, "fpr": 0.029166666666666667}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 5, "acc": 0.8672032193158954, "asr": 0.6844444444444444, "tpr": 0.041666666666666664, "fpr": 0.0020833333333333333}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 6, "acc": 0.8853118712273642, "asr": 0.8443935926773455, "tpr": 0.008333333333333333, "fpr": 0.0020833333333333333}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 7, "acc": 0.8571428571428571, "asr": 0.7120879120879121, "tpr": 0.08333333333333333, "fpr": 0.014583333333333334}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 0, "acc": 0.869215291750503, "asr": 0.5919282511210763, "tpr": 0.14166666666666666, "fpr": 0.0625}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 1, "acc": 0.8893360160965795, "asr": 0.5537757437070938, "tpr": 0.3333333333333333, "fpr": 0.03333333333333333}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 2, "acc": 0.9094567404426559, "asr": 0.6281179138321995, "tpr": 0.10833333333333334, "fpr": 0.06041666666666667}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 3, "acc": 0.8933601609657947, "asr": 0.5147392290249433, "tpr": 0.26666666666666666, "fpr": 0.03333333333333333}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 4, "acc": 0.8511066398390342, "asr": 0.7905405405405406, "tpr": 0.06666666666666667, "fpr": 0.08333333333333333}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 5, "acc": 0.8712273641851107, "asr": 0.4866666666666667, "tpr": 0.23333333333333334, "fpr": 0.03958333333333333}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 6, "acc": 0.8873239436619719, "asr": 0.7208237986270023, "tpr": 0.2, "fpr": 0.03333333333333333}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 7, "acc": 0.8611670020120724, "asr": 0.6615384615384615, "tpr": 0.18333333333333332, "fpr": 0.05416666666666667}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 0, "acc": 0.8772635814889336, "asr": 0.6636771300448431, "tpr": 0.041666666666666664, "fpr": 0.03125}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 1, "acc": 0.8913480885311871, "asr": 0.7322654462242563, "tpr": 0.18333333333333332, "fpr": 0.008333333333333333}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 2, "acc": 0.903420523138833, "asr": 0.6575963718820862, "tpr": 0.041666666666666664, "fpr": 0.035416666666666666}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 3, "acc": 0.8913480885311871, "asr": 0.6598639455782312, "tpr": 0.13333333333333333, "fpr": 0.014583333333333334}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 4, "acc": 0.8611670020120724, "asr": 0.8153153153153153, "tpr": 0.0, "fpr": 0.04375}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 5, "acc": 0.8672032193158954, "asr": 0.6133333333333333, "tpr": 0.11666666666666667, "fpr": 0.014583333333333334}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 6, "acc": 0.8853118712273642, "asr": 0.8329519450800915, "tpr": 0.058333333333333334, "fpr": 0.022916666666666665}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 7, "acc": 0.8591549295774648, "asr": 0.7516483516483516, "tpr": 0.06666666666666667, "fpr": 0.029166666666666667}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 0, "acc": 0.8772635814889336, "asr": 0.6636771300448431, "tpr": 0.041666666666666664, "fpr": 0.03125}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 1, "acc": 0.8913480885311871, "asr": 0.7322654462242563, "tpr": 0.18333333333333332, "fpr": 0.008333333333333333}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 2, "acc": 0.903420523138833, "asr": 0.655328798185941, "tpr": 0.041666666666666664, "fpr": 0.03333333333333333}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 3, "acc": 0.8913480885311871, "asr": 0.6598639455782312, "tpr": 0.13333333333333333, "fpr": 0.014583333333333334}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 4, "acc": 0.8611670020120724, "asr": 0.8153153153153153, "tpr": 0.0, "fpr": 0.04375}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 5, "acc": 0.8672032193158954, "asr": 0.6133333333333333, "tpr": 0.11666666666666667, "fpr": 0.014583333333333334}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 6, "acc": 0.8853118712273642, "asr": 0.8329519450800915, "tpr": 0.058333333333333334, "fpr": 0.022916666666666665}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 7, "acc": 0.8591549295774648, "asr": 0.7516483516483516, "tpr": 0.06666666666666667, "fpr": 0.029166666666666667}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 0, "acc": 0.8631790744466801, "asr": 0.13004484304932734, "tpr": 0.6, "fpr": 0.1}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 1, "acc": 0.8893360160965795, "asr": 0.013729977116704805, "tpr": 0.8416666666666667, "fpr": 0.03958333333333333}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 2, "acc": 0.9014084507042254, "asr": 0.009070294784580499, "tpr": 0.6833333333333333, "fpr": 0.07916666666666666}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 3, "acc": 0.8812877263581489, "asr": 0.06802721088435375, "tpr": 0.7166666666666667, "fpr": 0.07083333333333333}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 4, "acc": 0.8370221327967807, "asr": 0.6148648648648649, "tpr": 0.35, "fpr": 0.1625}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 5, "acc": 0.8792756539235412, "asr": 0.13111111111111112, "tpr": 0.55, "fpr": 0.1125}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 6, "acc": 0.8853118712273642, "asr": 0.05034324942791762, "tpr": 0.7583333333333333, "fpr": 0.06041666666666667}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 7, "acc": 0.8631790744466801, "asr": 0.1824175824175824, "tpr": 0.6083333333333333, "fpr": 0.09791666666666667}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 0, "acc": 0.8792756539235412, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 1, "acc": 0.8913480885311871, "asr": 0.004576659038901602, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 2, "acc": 0.8933601609657947, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 3, "acc": 0.8893360160965795, "asr": 0.0022675736961451248, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 4, "acc": 0.8832997987927566, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 5, "acc": 0.8893360160965795, "asr": 0.006666666666666667, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 6, "acc": 0.8752515090543259, "asr": 0.002288329519450801, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 7, "acc": 0.869215291750503, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 0, "acc": 0.8792756539235412, "asr": 0.0}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 1, "acc": 0.8913480885311871, "asr": 0.004576659038901602}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 2, "acc": 0.8933601609657947, "asr": 0.0}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 3, "acc": 0.8893360160965795, "asr": 0.0022675736961451248}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 4, "acc": 0.8832997987927566, "asr": 0.0}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 5, "acc": 0.8893360160965795, "asr": 0.006666666666666667}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 6, "acc": 0.8752515090543259, "asr": 0.002288329519450801}
+{"alpha": 0.5, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 7, "acc": 0.869215291750503, "asr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 0, "acc": 0.9094567404426559, "asr": 0.8139013452914798}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 1, "acc": 0.8672032193158954, "asr": 0.7505720823798627}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 2, "acc": 0.903420523138833, "asr": 0.7414965986394558}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 3, "acc": 0.8873239436619719, "asr": 0.8526077097505669}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 4, "acc": 0.89738430583501, "asr": 0.6711711711711712}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 5, "acc": 0.8732394366197183, "asr": 0.7311111111111112}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 6, "acc": 0.8752515090543259, "asr": 0.8443935926773455}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 7, "acc": 0.8531187122736419, "asr": 0.6879120879120879}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 0, "acc": 0.9195171026156942, "asr": 0.19955156950672645, "tpr": 0.375, "fpr": 0.0375}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 1, "acc": 0.8812877263581489, "asr": 0.4462242562929062, "tpr": 0.18333333333333332, "fpr": 0.010416666666666666}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 2, "acc": 0.9054325955734407, "asr": 0.3287981859410431, "tpr": 0.2916666666666667, "fpr": 0.035416666666666666}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 3, "acc": 0.8853118712273642, "asr": 0.8344671201814059, "tpr": 0.058333333333333334, "fpr": 0.022916666666666665}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 4, "acc": 0.8993963782696177, "asr": 0.6711711711711712, "tpr": 0.025, "fpr": 0.00625}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 5, "acc": 0.8672032193158954, "asr": 0.5377777777777778, "tpr": 0.15, "fpr": 0.014583333333333334}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 6, "acc": 0.8792756539235412, "asr": 0.6521739130434783, "tpr": 0.2, "fpr": 0.0125}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 7, "acc": 0.8651911468812877, "asr": 0.07692307692307693, "tpr": 0.5166666666666667, "fpr": 0.00625}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 0, "acc": 0.9134808853118712, "asr": 0.6457399103139013, "tpr": 0.2916666666666667, "fpr": 0.03125}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 1, "acc": 0.8772635814889336, "asr": 0.45537757437070936, "tpr": 0.3416666666666667, "fpr": 0.025}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 2, "acc": 0.9054325955734407, "asr": 0.63718820861678, "tpr": 0.16666666666666666, "fpr": 0.07083333333333333}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 3, "acc": 0.8792756539235412, "asr": 0.7845804988662132, "tpr": 0.175, "fpr": 0.058333333333333334}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 4, "acc": 0.89738430583501, "asr": 0.44819819819819817, "tpr": 0.2833333333333333, "fpr": 0.022916666666666665}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 5, "acc": 0.8732394366197183, "asr": 0.4688888888888889, "tpr": 0.2916666666666667, "fpr": 0.016666666666666666}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 6, "acc": 0.8772635814889336, "asr": 0.5697940503432495, "tpr": 0.325, "fpr": 0.03333333333333333}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 7, "acc": 0.8591549295774648, "asr": 0.4197802197802198, "tpr": 0.3, "fpr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 0, "acc": 0.9094567404426559, "asr": 0.7645739910313901, "tpr": 0.125, "fpr": 0.016666666666666666}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 1, "acc": 0.8772635814889336, "asr": 0.6178489702517163, "tpr": 0.175, "fpr": 0.010416666666666666}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 2, "acc": 0.9014084507042254, "asr": 0.7188208616780045, "tpr": 0.05, "fpr": 0.04375}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 3, "acc": 0.8893360160965795, "asr": 0.8321995464852607, "tpr": 0.058333333333333334, "fpr": 0.03333333333333333}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 4, "acc": 0.9014084507042254, "asr": 0.6103603603603603, "tpr": 0.10833333333333334, "fpr": 0.022916666666666665}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 5, "acc": 0.8732394366197183, "asr": 0.6533333333333333, "tpr": 0.1, "fpr": 0.01875}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 6, "acc": 0.8752515090543259, "asr": 0.7254004576659039, "tpr": 0.15833333333333333, "fpr": 0.016666666666666666}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 7, "acc": 0.8591549295774648, "asr": 0.5516483516483517, "tpr": 0.14166666666666666, "fpr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 0, "acc": 0.9094567404426559, "asr": 0.7645739910313901, "tpr": 0.125, "fpr": 0.016666666666666666}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 1, "acc": 0.8772635814889336, "asr": 0.6178489702517163, "tpr": 0.175, "fpr": 0.010416666666666666}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 2, "acc": 0.9014084507042254, "asr": 0.7188208616780045, "tpr": 0.05, "fpr": 0.04375}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 3, "acc": 0.8893360160965795, "asr": 0.8321995464852607, "tpr": 0.058333333333333334, "fpr": 0.03333333333333333}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 4, "acc": 0.9014084507042254, "asr": 0.6103603603603603, "tpr": 0.10833333333333334, "fpr": 0.022916666666666665}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 5, "acc": 0.8732394366197183, "asr": 0.6533333333333333, "tpr": 0.1, "fpr": 0.01875}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 6, "acc": 0.8752515090543259, "asr": 0.7254004576659039, "tpr": 0.15833333333333333, "fpr": 0.016666666666666666}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 7, "acc": 0.8591549295774648, "asr": 0.5516483516483517, "tpr": 0.14166666666666666, "fpr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 0, "acc": 0.9195171026156942, "asr": 0.004484304932735426, "tpr": 0.8833333333333333, "fpr": 0.029166666666666667}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 1, "acc": 0.8853118712273642, "asr": 0.002288329519450801, "tpr": 0.9166666666666666, "fpr": 0.020833333333333332}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 2, "acc": 0.9074446680080482, "asr": 0.061224489795918366, "tpr": 0.7333333333333333, "fpr": 0.06666666666666667}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 3, "acc": 0.8893360160965795, "asr": 0.047619047619047616, "tpr": 0.7916666666666666, "fpr": 0.052083333333333336}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 4, "acc": 0.9114688128772636, "asr": 0.0022522522522522522, "tpr": 0.7833333333333333, "fpr": 0.05416666666666667}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 5, "acc": 0.869215291750503, "asr": 0.008888888888888889, "tpr": 0.85, "fpr": 0.0375}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 6, "acc": 0.8792756539235412, "asr": 0.032036613272311214, "tpr": 0.8916666666666667, "fpr": 0.027083333333333334}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 7, "acc": 0.8651911468812877, "asr": 0.002197802197802198, "tpr": 0.925, "fpr": 0.01875}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 0, "acc": 0.9235412474849095, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 1, "acc": 0.8712273641851107, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 2, "acc": 0.9134808853118712, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 3, "acc": 0.8913480885311871, "asr": 0.0045351473922902496, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 4, "acc": 0.9114688128772636, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 5, "acc": 0.8732394366197183, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 6, "acc": 0.8853118712273642, "asr": 0.009153318077803204, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 7, "acc": 0.869215291750503, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 0, "acc": 0.9235412474849095, "asr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 1, "acc": 0.8712273641851107, "asr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 2, "acc": 0.9134808853118712, "asr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 3, "acc": 0.8913480885311871, "asr": 0.0045351473922902496}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 4, "acc": 0.9114688128772636, "asr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 5, "acc": 0.8732394366197183, "asr": 0.0}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 6, "acc": 0.8853118712273642, "asr": 0.009153318077803204}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 7, "acc": 0.869215291750503, "asr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 0, "acc": 0.8853118712273642, "asr": 0.7107623318385651}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 1, "acc": 0.8712273641851107, "asr": 0.7116704805491991}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 2, "acc": 0.9074446680080482, "asr": 0.6394557823129252}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 3, "acc": 0.8993963782696177, "asr": 0.7210884353741497}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 4, "acc": 0.8893360160965795, "asr": 0.6801801801801802}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 5, "acc": 0.8732394366197183, "asr": 0.7444444444444445}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 6, "acc": 0.8752515090543259, "asr": 0.6407322654462243}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "fedavg", "seed": 7, "acc": 0.8551307847082495, "asr": 0.7406593406593407}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 0, "acc": 0.89738430583501, "asr": 0.002242152466367713, "tpr": 1.0, "fpr": 0.058333333333333334}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 1, "acc": 0.8752515090543259, "asr": 0.002288329519450801, "tpr": 0.9666666666666667, "fpr": 0.10416666666666667}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 2, "acc": 0.9154929577464789, "asr": 0.0, "tpr": 0.85, "fpr": 0.052083333333333336}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 3, "acc": 0.89738430583501, "asr": 0.006802721088435374, "tpr": 0.9333333333333333, "fpr": 0.1125}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 4, "acc": 0.9175050301810865, "asr": 0.0022522522522522522, "tpr": 0.7916666666666666, "fpr": 0.08541666666666667}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 5, "acc": 0.8752515090543259, "asr": 0.0022222222222222222, "tpr": 1.0, "fpr": 0.0375}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 6, "acc": 0.8832997987927566, "asr": 0.0, "tpr": 1.0, "fpr": 0.0625}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 7, "acc": 0.8732394366197183, "asr": 0.004395604395604396, "tpr": 1.0, "fpr": 0.075}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 0, "acc": 0.8893360160965795, "asr": 0.3475336322869955, "tpr": 0.39166666666666666, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 1, "acc": 0.8672032193158954, "asr": 0.4439359267734554, "tpr": 0.30833333333333335, "fpr": 0.027083333333333334}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 2, "acc": 0.9134808853118712, "asr": 0.22675736961451248, "tpr": 0.39166666666666666, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 3, "acc": 0.89738430583501, "asr": 0.5147392290249433, "tpr": 0.2833333333333333, "fpr": 0.03958333333333333}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 4, "acc": 0.9094567404426559, "asr": 0.4797297297297297, "tpr": 0.275, "fpr": 0.03333333333333333}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 5, "acc": 0.8752515090543259, "asr": 0.43777777777777777, "tpr": 0.4, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 6, "acc": 0.8752515090543259, "asr": 0.18993135011441648, "tpr": 0.425, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct90", "seed": 7, "acc": 0.8611670020120724, "asr": 0.4021978021978022, "tpr": 0.35833333333333334, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 0, "acc": 0.8893360160965795, "asr": 0.5269058295964125, "tpr": 0.225, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 1, "acc": 0.869215291750503, "asr": 0.6224256292906178, "tpr": 0.11666666666666667, "fpr": 0.025}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 2, "acc": 0.9094567404426559, "asr": 0.4852607709750567, "tpr": 0.175, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 3, "acc": 0.8993963782696177, "asr": 0.6689342403628118, "tpr": 0.10833333333333334, "fpr": 0.029166666666666667}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 4, "acc": 0.8993963782696177, "asr": 0.6599099099099099, "tpr": 0.09166666666666666, "fpr": 0.029166666666666667}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 5, "acc": 0.8752515090543259, "asr": 0.62, "tpr": 0.20833333333333334, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 6, "acc": 0.8772635814889336, "asr": 0.47139588100686497, "tpr": 0.15, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct95", "seed": 7, "acc": 0.8551307847082495, "asr": 0.5604395604395604, "tpr": 0.2, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 0, "acc": 0.8893360160965795, "asr": 0.5269058295964125, "tpr": 0.225, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 1, "acc": 0.869215291750503, "asr": 0.6224256292906178, "tpr": 0.11666666666666667, "fpr": 0.025}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 2, "acc": 0.9094567404426559, "asr": 0.4852607709750567, "tpr": 0.175, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 3, "acc": 0.8993963782696177, "asr": 0.6802721088435374, "tpr": 0.08333333333333333, "fpr": 0.03125}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 4, "acc": 0.8993963782696177, "asr": 0.6666666666666666, "tpr": 0.08333333333333333, "fpr": 0.029166666666666667}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 5, "acc": 0.8752515090543259, "asr": 0.62, "tpr": 0.20833333333333334, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 6, "acc": 0.8772635814889336, "asr": 0.47139588100686497, "tpr": 0.15, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_pct975", "seed": 7, "acc": 0.8551307847082495, "asr": 0.5604395604395604, "tpr": 0.2, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 0, "acc": 0.8993963782696177, "asr": 0.002242152466367713, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 1, "acc": 0.8752515090543259, "asr": 0.004576659038901602, "tpr": 0.925, "fpr": 0.01875}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 2, "acc": 0.9094567404426559, "asr": 0.0, "tpr": 0.9916666666666667, "fpr": 0.0020833333333333333}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 3, "acc": 0.8993963782696177, "asr": 0.018140589569160998, "tpr": 0.8916666666666667, "fpr": 0.027083333333333334}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 4, "acc": 0.9114688128772636, "asr": 0.0022522522522522522, "tpr": 0.925, "fpr": 0.01875}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 5, "acc": 0.8812877263581489, "asr": 0.0022222222222222222, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 6, "acc": 0.8913480885311871, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 7, "acc": 0.869215291750503, "asr": 0.008791208791208791, "tpr": 0.9833333333333333, "fpr": 0.004166666666666667}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 0, "acc": 0.8993963782696177, "asr": 0.002242152466367713, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 1, "acc": 0.8812877263581489, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 2, "acc": 0.9094567404426559, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 3, "acc": 0.903420523138833, "asr": 0.0022675736961451248, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 4, "acc": 0.903420523138833, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 5, "acc": 0.8812877263581489, "asr": 0.0022222222222222222, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 6, "acc": 0.8913480885311871, "asr": 0.0, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "pg_oracle", "seed": 7, "acc": 0.8732394366197183, "asr": 0.002197802197802198, "tpr": 1.0, "fpr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 0, "acc": 0.8993963782696177, "asr": 0.002242152466367713}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 1, "acc": 0.8812877263581489, "asr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 2, "acc": 0.9094567404426559, "asr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 3, "acc": 0.903420523138833, "asr": 0.0022675736961451248}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 4, "acc": 0.903420523138833, "asr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 5, "acc": 0.8812877263581489, "asr": 0.0022222222222222222}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 6, "acc": 0.8913480885311871, "asr": 0.0}
+{"alpha": 10.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 7, "acc": 0.8732394366197183, "asr": 0.002197802197802198}

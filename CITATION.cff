@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "When Ranking Survives but Filtering Fails: Behavioural Backdoor Detection under Non-IID Federated Learning"
+authors:
+  - family-names: Nanda
+    given-names: Mihit
+  - family-names: Tiwari
+    given-names: Sanju
+license: MIT

@@ -1,0 +1,7 @@
+# Versions below are those the digits experiments were verified with (bit-exact vs. historical CSVs).
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.2
+scikit-learn==1.8.0
+matplotlib==3.10.8
+pytest>=8

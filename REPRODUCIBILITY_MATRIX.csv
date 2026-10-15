@@ -1,0 +1,12 @@
+Experiment,Source files,Output files,Verification done in this review,Status
+Alpha sweep (Study B),run_alpha_sweep.py; analyze_alpha_sweep.py,completed/alpha_sweep_*,1 seed x 24 runs re-run: ASR and accuracy identical to stored CSV (max diff 0.0); also in tests/,REPRODUCED (spot check)
+f sensitivity,run_f_sensitivity.py; analyze_f_sensitivity.py,completed/f_sensitivity_*,1 seed x 12 runs re-run: identical,REPRODUCED (spot check)
+Malicious-fraction sweep,run_malicious_fraction_sweep.py (hard-coded /mnt path removed),completed/malicious_fraction_*,1 seed x 27 runs re-run: identical,REPRODUCED (spot check)
+Full-population mechanism,run_full_population_mechanism*.py,completed/fullpop_mechanism_*,round-level CSV matches alpha-sweep ASR for all 80 runs; empty run-level CSV rebuilt by rebuild_run_level.py,CONSISTENT; runner not re-executed
+MAD threshold sensitivity,run_mad_threshold_sensitivity.py (Path import fixed),completed/mad_threshold_*,script failed with NameError before fix; not re-run after fix,"FIXED, NOT RE-RUN"
+fresh20 / run_batch,run_fresh20.py; run_batch.py (Path import fixed),completed/fresh20_*,scripts failed before fix; not re-run after fix,"FIXED, NOT RE-RUN"
+Trajectory diagnostic,run_trajectory_diagnostic.py (Path import fixed),completed/trajectory_*,failed before fix; not re-run,"FIXED, NOT RE-RUN"
+Client ranking,run_client_ranking.py,completed/client_rank_*,not re-run,UNVERIFIED
+Study A: baselines / triggers / decision rules / adaptive / AUROC / delta-B / unknown-f / ablations / overhead,"none recovered; run_study_a.py re-creates baselines, triggers, rules, adaptive on any seed range","paper/*.jsonl, tab*.tex",adaptive probeguard_k alpha=10 beta=0.5 seed 0 reproduced exactly from paper/adaptive_results.jsonl; fedavg beta=0 row differs (historical beta=0 used the adaptive code path),PARTIAL
+Historical CNN result (3 seeds),original runner not found,paper/tab_cnn_*.tex,cannot be reproduced; the v1 re-implementation is NOT equivalent,NOT REPRODUCIBLE
+CNN v2 (new),"experiments/cnn_cifar10/run_cnn.py, pg_core.py, analyze_cnn.py",none yet,pg_core unit-tested; analyze_cnn tested on synthetic CSVs; run_cnn.py compiled but never executed (no torch/CIFAR in sandbox),UNTESTED DRIVER

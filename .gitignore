@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+# Local datasets and generated CNN results
+data/
+experiments/cnn_cifar10/results*/
+*.tar.gz
+*.pt
+*.pth
+*.ckpt
+.DS_Store
+
+*.pyc
+data/cifar-10-batches-py/
+experiments/results_rerun/*.csv
+experiments/results_rerun/*.png

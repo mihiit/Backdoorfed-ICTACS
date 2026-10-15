@@ -1,0 +1,60 @@
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 0, "acc": 0.8893360160965795, "asr": 0.6704035874439462, "tpr": 0.08333333333333333, "fpr": 0.0, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 1, "acc": 0.8933601609657947, "asr": 0.7598152424942263, "tpr": 0.125, "fpr": 0.0020833333333333333, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 2, "acc": 0.9114688128772636, "asr": 0.6823266219239373, "tpr": 0.0, "fpr": 0.0, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 3, "acc": 0.8933601609657947, "asr": 0.5353075170842825, "tpr": 0.0, "fpr": 0.0, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 4, "acc": 0.89738430583501, "asr": 0.6948775055679287, "tpr": 0.008333333333333333, "fpr": 0.004166666666666667, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 0, "acc": 0.8873239436619719, "asr": 0.0, "tpr": 0.8916666666666667, "fpr": 0.027083333333333334, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 1, "acc": 0.8953722334004024, "asr": 0.07390300230946882, "tpr": 0.8, "fpr": 0.05, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 2, "acc": 0.9175050301810865, "asr": 0.0022371364653243847, "tpr": 0.8333333333333334, "fpr": 0.041666666666666664, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 3, "acc": 0.903420523138833, "asr": 0.011389521640091117, "tpr": 0.75, "fpr": 0.0625, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 4, "acc": 0.9014084507042254, "asr": 0.028953229398663696, "tpr": 0.7833333333333333, "fpr": 0.05416666666666667, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 0, "acc": 0.8913480885311871, "asr": 0.0, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 1, "acc": 0.903420523138833, "asr": 0.004618937644341801, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 2, "acc": 0.9154929577464789, "asr": 0.0, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 3, "acc": 0.8933601609657947, "asr": 0.0, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 4, "acc": 0.89738430583501, "asr": 0.0022271714922048997, "root_size": 25}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 0, "acc": 0.8792756539235412, "asr": 0.6981981981981982, "tpr": 0.0, "fpr": 0.0, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 1, "acc": 0.8832997987927566, "asr": 0.8009153318077803, "tpr": 0.0, "fpr": 0.0020833333333333333, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 2, "acc": 0.8571428571428571, "asr": 0.5906040268456376, "tpr": 0.05, "fpr": 0.0, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 3, "acc": 0.8893360160965795, "asr": 0.8113636363636364, "tpr": 0.025, "fpr": 0.00625, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 4, "acc": 0.9074446680080482, "asr": 0.7932584269662921, "tpr": 0.075, "fpr": 0.0, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 0, "acc": 0.8933601609657947, "asr": 0.0, "tpr": 0.9333333333333333, "fpr": 0.016666666666666666, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 1, "acc": 0.8933601609657947, "asr": 0.011441647597254004, "tpr": 0.8833333333333333, "fpr": 0.029166666666666667, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 2, "acc": 0.8651911468812877, "asr": 0.0, "tpr": 0.95, "fpr": 0.0125, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 3, "acc": 0.8873239436619719, "asr": 0.025, "tpr": 0.875, "fpr": 0.03125, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 4, "acc": 0.89738430583501, "asr": 0.058426966292134834, "tpr": 0.775, "fpr": 0.05625, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 0, "acc": 0.9014084507042254, "asr": 0.0, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 1, "acc": 0.8953722334004024, "asr": 0.0, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 2, "acc": 0.8631790744466801, "asr": 0.0, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 3, "acc": 0.8913480885311871, "asr": 0.0022727272727272726, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 4, "acc": 0.8993963782696177, "asr": 0.0022471910112359553, "root_size": 50}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 0, "acc": 0.9114688128772636, "asr": 0.7802690582959642, "tpr": 0.09166666666666666, "fpr": 0.014583333333333334, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 1, "acc": 0.8752515090543259, "asr": 0.6384439359267735, "tpr": 0.05, "fpr": 0.0, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 2, "acc": 0.9014084507042254, "asr": 0.7256235827664399, "tpr": 0.03333333333333333, "fpr": 0.00625, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 3, "acc": 0.8853118712273642, "asr": 0.8526077097505669, "tpr": 0.0, "fpr": 0.004166666666666667, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 4, "acc": 0.89738430583501, "asr": 0.6711711711711712, "tpr": 0.0, "fpr": 0.0, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 0, "acc": 0.9195171026156942, "asr": 0.004484304932735426, "tpr": 0.8833333333333333, "fpr": 0.029166666666666667, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 1, "acc": 0.8853118712273642, "asr": 0.002288329519450801, "tpr": 0.9166666666666666, "fpr": 0.020833333333333332, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 2, "acc": 0.9074446680080482, "asr": 0.061224489795918366, "tpr": 0.7333333333333333, "fpr": 0.06666666666666667, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 3, "acc": 0.8893360160965795, "asr": 0.047619047619047616, "tpr": 0.7916666666666666, "fpr": 0.052083333333333336, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 4, "acc": 0.9114688128772636, "asr": 0.0022522522522522522, "tpr": 0.7833333333333333, "fpr": 0.05416666666666667, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 0, "acc": 0.9235412474849095, "asr": 0.0, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 1, "acc": 0.8712273641851107, "asr": 0.0, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 2, "acc": 0.9134808853118712, "asr": 0.0, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 3, "acc": 0.8913480885311871, "asr": 0.0045351473922902496, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 4, "acc": 0.9114688128772636, "asr": 0.0, "root_size": 100}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 0, "acc": 0.8792756539235412, "asr": 0.7373068432671082, "tpr": 0.0, "fpr": 0.0, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 1, "acc": 0.8732394366197183, "asr": 0.8846153846153846, "tpr": 0.016666666666666666, "fpr": 0.0, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 2, "acc": 0.8651911468812877, "asr": 0.7731481481481481, "tpr": 0.008333333333333333, "fpr": 0.0, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 3, "acc": 0.8993963782696177, "asr": 0.7865168539325843, "tpr": 0.016666666666666666, "fpr": 0.0, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard", "seed": 4, "acc": 0.8832997987927566, "asr": 0.8171557562076749, "tpr": 0.0, "fpr": 0.0020833333333333333, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 0, "acc": 0.8792756539235412, "asr": 0.32671081677704195, "tpr": 0.5083333333333333, "fpr": 0.12291666666666666, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 1, "acc": 0.8853118712273642, "asr": 0.0022624434389140274, "tpr": 0.9916666666666667, "fpr": 0.0020833333333333333, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 2, "acc": 0.8672032193158954, "asr": 0.0, "tpr": 0.875, "fpr": 0.03125, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 3, "acc": 0.9094567404426559, "asr": 0.451685393258427, "tpr": 0.4666666666666667, "fpr": 0.13333333333333333, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "probeguard_k", "seed": 4, "acc": 0.8873239436619719, "asr": 0.12415349887133183, "tpr": 0.75, "fpr": 0.0625, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 0, "acc": 0.8853118712273642, "asr": 0.002207505518763797, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 1, "acc": 0.8832997987927566, "asr": 0.0022624434389140274, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 2, "acc": 0.8712273641851107, "asr": 0.0, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 3, "acc": 0.9054325955734407, "asr": 0.038202247191011236, "root_size": 200}
+{"alpha": 1.0, "m": 0.2, "attack": "fixed", "defense": "clean_oracle", "seed": 4, "acc": 0.8893360160965795, "asr": 0.013544018058690745, "root_size": 200}

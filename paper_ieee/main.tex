@@ -1,0 +1,52 @@
+% IEEE-conference-style layout (A4, two column, Times 10 pt).
+% The official IEEEtran class was not available in the build sandbox, so the layout
+% is reproduced with standard packages. To use the official class instead, compile
+% main_ieeetran.tex, which shares the same body (body.tex).
+\documentclass[10pt,a4paper,twocolumn]{article}
+\usepackage[left=14.32mm,right=14.32mm,top=19mm,bottom=43mm,columnsep=4.22mm]{geometry}
+\usepackage{mathptmx}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{graphicx,booktabs,array,multirow}
+\usepackage{tikz}
+\usetikzlibrary{positioning,arrows.meta}
+\usepackage{caption}
+\usepackage{cite}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\pagestyle{empty}
+\setlength{\parindent}{1.0em}\setlength{\parskip}{0pt}
+\renewcommand{\baselinestretch}{0.98}
+\titleformat{\section}{\centering\normalfont\small\scshape}{\thesection.}{0.6em}{\MakeUppercase}
+\titlespacing*{\section}{0pt}{10pt}{4pt}
+\titleformat{\subsection}{\normalfont\itshape}{\Alph{subsection}.}{0.6em}{}
+\titlespacing*{\subsection}{0pt}{6pt}{2pt}
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\thesubsection}{\thesection-\Alph{subsection}}
+\captionsetup{font=footnotesize,labelsep=period,skip=3pt}
+\captionsetup[table]{labelformat=simple,labelsep=newline,textfont=sc,singlelinecheck=off,justification=centering,skip=4pt}
+\renewcommand{\thetable}{\Roman{table}}
+\captionsetup[figure]{name=Fig.}
+\newtheorem{lemma}{Lemma}
+\newtheorem{proposition}{Proposition}
+\makeatletter
+\def\@maketitle{}
+\makeatother
+\newcommand{\keywordsline}[1]{\par\vspace{3pt}\noindent{\small\bfseries\itshape Index Terms---}{\small\bfseries\itshape #1}\par}
+\renewenvironment{abstract}{\par\small\bfseries\noindent\textit{Abstract}---}{\par\vspace{3pt}}
+\newenvironment{IEEEkeywords}{\par\small\bfseries\noindent\textit{Index Terms}---}{\par}
+\begin{document}
+\twocolumn[{%
+\begin{center}
+{\fontsize{22}{26}\selectfont When Ranking Survives but Filtering Fails: Behavioural Backdoor Detection under Non-IID Federated Learning\par}
+\vspace{10pt}
+\begin{tabular}{@{}p{0.45\textwidth}p{0.45\textwidth}@{}}
+\centering\large Mihit Nanda\\[-1pt]{\normalsize\itshape IILM University}\\[-1pt]{\normalsize Greater Noida, India}\\[-1pt]{\normalsize mihit.nanda.cs27@iilm.edu} &
+\centering\large Sanju Tiwari\\[-1pt]{\normalsize\itshape Sharda University}\\[-1pt]{\normalsize Greater Noida, India}\\[-1pt]{\normalsize tiwarisanju18@ieee.org}
+\end{tabular}\par
+\end{center}
+\vspace{6pt}
+}]
+\input{body}
+\end{document}
